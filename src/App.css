@@ -1,0 +1,9 @@
+@import 'tailwindcss/tailwind.css';
+
+body {
+  font-family: 'Work Sans', sans-serif;
+}
+
+.font-worksans {
+  font-family: 'Work Sans', sans-serif;
+}
